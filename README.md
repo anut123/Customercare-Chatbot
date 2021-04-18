@@ -38,7 +38,7 @@ The Covid-19 chatbot helps the users to get detailed information about Covid-19.
 
 ## Contributors :sunglasses:
 * [Anusha Thatikonda](https://github.com/anut123)
-* [Puja Kasture](https://github.com/puja-kasture
+* [Puja Kasture](https://github.com/puja-kasture)
 * [Atmakuri Ganesh](https://github.com/atmakuriganesh)
 
 
