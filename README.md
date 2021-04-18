@@ -1,8 +1,8 @@
 
 
 ## Customercare Chatbot! :boom:
-The main objective of this project is to handle all types of customer queries.
 
+A customercare chatbot is a bot that uses artificial intelligence (AI) and machine learning to answer basic and handle all types of customer queries.
 
 
 
