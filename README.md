@@ -32,7 +32,7 @@ A bot that aims to serve humans queries and give an feasible answer to their que
 3. `rasa run actions` Use this command in different Terminal or Command Prompt to start the custom actions server.
 ![Local_server](https://github.com/anut123/Customercare-Chatbot/blob/main/Images/Local_server.png)
 # Deployment :earth_asia:
-##### We deployed our bot on Rasa-x Server.
+### We deployed our bot on Rasa-x Server.
 ![Global_Server](https://github.com/anut123/Customercare-Chatbot/blob/main/Images/Global_server.png)
 ![Global_Server 1](https://github.com/anut123/Customercare-Chatbot/blob/main/Images/Global%20server%201.png)
 
