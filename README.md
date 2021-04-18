@@ -34,7 +34,9 @@ The Covid-19 chatbot helps the users to get detailed information about Covid-19.
 # Deployment :earth_asia:
 ##### We deployed our boat on Rasa-x Server.
 ##### To know the detailed process head over [here](https://github.com/LetsUpgrade/CHIT-CHAT/blob/master/Deployment%20Steps.docx)
-![Global_Server](https://github.com/LetsUpgrade/CHIT-CHAT/blob/master/Images/global_server.jpeg)
+![Global_Server](https://github.com/anut123/Customercare-Chatbot/blob/main/Images/Global_server.png)
+![Global_Server1](https://github.com/anut123/Customercare-Chatbot/blob/main/Images/Global_server1.png)
+
 
 ## Contributors :sunglasses:
 * [Anusha Thatikonda](https://github.com/anut123)
