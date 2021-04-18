@@ -1,7 +1,9 @@
 
 
 ## Customercare Chatbot! :boom:
-A bot that aims to serve humans queries and give an feasible answer to their queries. It is a machine-learning discussion dialog engine which makes it possible to generate responses based on collections of old conversations.
+The main objective of this project is to handle all types of customer queries.
+
+
 
 
 >## 📂&nbsp; RELEVANT TECHNOLOGY STACK
@@ -13,8 +15,10 @@ A bot that aims to serve humans queries and give an feasible answer to their que
 
 ## FEATURES
 
+The Covid-19 chatbot helps the users to get detailed information about Covid-19. Some of the features are identifying if anyone is Corona positive or not, giving information of Covid cases in their area, telling precautions, symptoms, updates of vaccine, nearby hospitals, protection measures, antibiotics, mask and tries to answer all the queries of a user regarding Covid-19.
 
 >## 💻&nbsp; GETTING STARTED
+
 
 ## Steps to run the Chatbot in your local device !!
 
