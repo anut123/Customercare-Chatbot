@@ -34,6 +34,7 @@ The Customercare chatbot helps the customer to solve their queries and get 24/7 
 # Deployment :earth_asia:
 ### We deployed our bot on Rasa-x Server.
 ![Global_Server](https://github.com/anut123/Customercare-Chatbot/blob/main/Images/Global_server.png)
+
 ![Global_Server 1](https://github.com/anut123/Customercare-Chatbot/blob/main/Images/Global%20server%201.png)
 
 
