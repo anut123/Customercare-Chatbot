@@ -2,7 +2,7 @@
 
 ## Customercare Chatbot! :boom:
 
-A customercare chatbot is a bot that uses artificial intelligence (AI) and machine learning to answer basic and handle all types of customer queries.
+A customercare chatbot is a bot that uses artificial intelligence and machine learning to answer the basic customer questions and handle all types of customer queries.
 
 
 
@@ -15,7 +15,8 @@ A customercare chatbot is a bot that uses artificial intelligence (AI) and machi
 
 ## FEATURES
 
-The Covid-19 chatbot helps the users to get detailed information about Covid-19. Some of the features are identifying if anyone is Corona positive or not, giving information of Covid cases in their area, telling precautions, symptoms, updates of vaccine, nearby hospitals, protection measures, antibiotics, mask and tries to answer all the queries of a user regarding Covid-19.
+The Customercare chatbot is to answer the basic customer questions and handle all types of customer queries. Some of them are network issue,SIM card services,location,name,recharge plans and many more and tries to answer all the queries asked by the customer.
+
 
 >## 💻&nbsp; GETTING STARTED
 
