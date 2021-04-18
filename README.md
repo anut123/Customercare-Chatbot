@@ -30,7 +30,7 @@ The Covid-19 chatbot helps the users to get detailed information about Covid-19.
 1. `rasa train` To train the Model
 2. `rasa shell` To start Chatbot and chat with it.
 3. `rasa run actions` Use this command in different Terminal or Command Prompt to start the custom actions server.
-![Local server]https://github.com/anut123/Customercare-Chatbot/tree/main/Images/Local server.png)
+![Local server](https://github.com/anut123/Customercare-Chatbot/tree/main/Images/Local server.png)
 # Deployment :earth_asia:
 ##### We deployed our boat on Rasa-x Server.
 ##### To know the detailed process head over [here](https://github.com/LetsUpgrade/CHIT-CHAT/blob/master/Deployment%20Steps.docx)
