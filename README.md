@@ -2,7 +2,7 @@
 
 ## Customercare Chatbot! :boom:
 
-A customercare chatbot is a bot that uses artificial intelligence and machine learning to answer the basic customer questions and handle all types of customer queries.
+A customercare chatbot is a bot that uses artificial intelligence and machine learning to answer the basic customer questions and handle all the types of customer queries.
 
 
 
@@ -15,7 +15,7 @@ A customercare chatbot is a bot that uses artificial intelligence and machine le
 
 ## FEATURES
 
-The Customercare chatbot is to answer the basic customer questions and handle all types of customer queries. Some of them are network issue,SIM card services,location,name,recharge plans and many more and tries to answer all the queries asked by the customer.
+The Customercare chatbot helps the customer to solve there queries and get 24/7 instant answers to there[ basic requests/questions asked by the customer. Some of them are network issue,SIM card services,location,name,recharge plans and many more and tries to answer all the queries asked by the customer.
 
 
 >## 💻&nbsp; GETTING STARTED
