@@ -29,6 +29,7 @@ The Customercare chatbot helps the customer to solve there queries and get 24/7 
 1. `rasa train` To train the Model
 2. `rasa shell` To start Chatbot and chat with it.
 3. `rasa run actions` Use this command in different Terminal or Command Prompt to start the custom actions server.
+
 ![Local_server](https://github.com/anut123/Customercare-Chatbot/blob/main/Images/Local_server.png)
 # Deployment :earth_asia:
 ### We deployed our bot on Rasa-x Server.
